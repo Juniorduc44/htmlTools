@@ -1,0 +1,18 @@
+{
+  "id": "bitcoin-price",
+  "name": "Bitcoin Price Tracker",
+  "description": "Real-time Bitcoin price tracker with historical data and charts",
+  "category": "Finance",
+  "icon": "💰",
+  "rating": 4.8,
+  "reviews": 156,
+  "tags": ["cryptocurrency", "finance", "bitcoin", "price-tracking"],
+  "features": [
+    "Real-time BTC/USD price",
+    "24h price change",
+    "Historical charts",
+    "Multiple currency support"
+  ],
+  "offline": true,
+  "author": "HTML Tools Community"
+}
