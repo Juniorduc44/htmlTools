@@ -21,3 +21,12 @@ https://nextjs.org/telemetry
  ⚠ Cross origin request detected from html-tools-directory.lindy.site to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
 Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
  ✓ Compiled in 204ms
+ GET / 200 in 458ms
+ GET /favicon.ico 200 in 292ms
+ GET / 200 in 432ms
+ GET /favicon.ico 200 in 264ms
+ ○ Compiling /_not-found/page ...
+ ✓ Compiled /_not-found/page in 555ms
+ GET /robots.txt 404 in 790ms
+ ✓ Compiled in 204ms
+ ✓ Compiled in 91ms
